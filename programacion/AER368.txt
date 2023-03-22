@@ -1,0 +1,23 @@
+import java.util.*;
+public class AER368 {
+
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		
+		int huevos = 1;
+		int capacidad = 1;
+		int total = 0;
+		
+		while ((huevos != 0) && (capacidad != 0)) {
+			huevos = s.nextInt();
+			capacidad = s.nextInt();
+			if (huevos % capacidad != 0) {
+				total = (huevos / capacidad + 1) * 10;
+			}else {
+				total = huevos / capacidad * 10;
+			}
+			System.out.println(total);
+		}
+	}
+
+}
