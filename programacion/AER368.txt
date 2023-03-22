@@ -4,6 +4,8 @@ public class AER368 {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		
+		//Esto es un comentario nuevo
+		
 		int huevos = 1;
 		int capacidad = 1;
 		int total = 0;
