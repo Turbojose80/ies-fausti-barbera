@@ -1,3 +1,6 @@
+![](https://portal.edu.gva.es/faustibarbera/wp-content/uploads/sites/1403/2022/03/cropped-logoinstituto.jpeg)
+
+
 # ies-fausti-barbera
 
 ## *Modules list*
